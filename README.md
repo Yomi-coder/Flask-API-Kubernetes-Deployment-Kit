@@ -163,7 +163,7 @@ Kubernetes Deployment
 
 - The application runs on port 5000 by default
 - Debug mode is enabled for local development
-- The Kubernetes deployment expects the image `dhinesh2001/python-app:v1`
+- The Kubernetes deployment expects the image `username/python-app:v1`
 - Update the image name in `Layer3_deployment.yaml` if using a different registry
 
 ## 🔗 Additional Resources
